@@ -1,0 +1,20 @@
+.header {
+    background-image: url('https://via.placeholder.com/1200x400');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 100px 0;
+  }
+  
+  .main-content {
+    padding: 50px 0;
+  }
+  
+  .footer {
+    color: #fff;
+  }
+  
+  .footer h5 {
+    margin-bottom: 20px;
+  }
+  
